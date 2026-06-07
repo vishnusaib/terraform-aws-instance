@@ -11,7 +11,7 @@ as t3.micro
 sg_id(required) - A list of security group id to attach instance
 tags (required) - a map of tags to be associated with instance
 
-### Outputs
+## Outputs
 public_ip - public ip of instance created
 private_ip - private ip of the instance created
 instance_id - instance id of the instance created
